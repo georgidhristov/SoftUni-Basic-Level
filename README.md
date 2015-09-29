@@ -1,3 +1,3 @@
 # SoftUni-Basic-Level
-ProgrammingBasic-Homeworks!
-MyHomeWorks!
+ProgrammingBasic-Homeworks.
+
