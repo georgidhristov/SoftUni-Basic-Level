@@ -1,0 +1,1 @@
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem11BitwiseExtractBit3\bin\Debug\Problem11BitwiseExtractBit3.exe.config

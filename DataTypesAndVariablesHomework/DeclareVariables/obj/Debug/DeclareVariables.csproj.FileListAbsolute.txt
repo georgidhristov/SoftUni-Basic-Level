@@ -1,0 +1,12 @@
+c:\users\hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\DeclareVariables\bin\Debug\DeclareVariables.exe
+c:\users\hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\DeclareVariables\bin\Debug\DeclareVariables.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.exe
+c:\users\hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\DataTypesAndVariablesHomework\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\DataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\DataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.pdb

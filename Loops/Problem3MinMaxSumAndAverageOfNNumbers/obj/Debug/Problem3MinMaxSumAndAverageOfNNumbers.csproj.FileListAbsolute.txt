@@ -1,0 +1,10 @@
+c:\users\georgi\documents\visual studio 2013\Projects\Loops\Problem3MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem3MinMaxSumAndAverageOfNNumbers.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\Loops\Problem3MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem3MinMaxSumAndAverageOfNNumbers.exe
+c:\users\georgi\documents\visual studio 2013\Projects\Loops\Problem3MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem3MinMaxSumAndAverageOfNNumbers.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\Loops\Problem3MinMaxSumAndAverageOfNNumbers\obj\Debug\Problem3MinMaxSumAndAverageOfNNumbers.exe
+c:\users\georgi\documents\visual studio 2013\Projects\Loops\Problem3MinMaxSumAndAverageOfNNumbers\obj\Debug\Problem3MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem3MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem3MinMaxSumAndAverageOfNNumbers.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem3MinMaxSumAndAverageOfNNumbers\obj\Debug\Problem3MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem3MinMaxSumAndAverageOfNNumbers\obj\Debug\Problem3MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem3MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem3MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem3MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem3MinMaxSumAndAverageOfNNumbers.pdb

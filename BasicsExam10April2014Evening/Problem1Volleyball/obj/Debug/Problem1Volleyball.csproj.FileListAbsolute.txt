@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam10April2014Evening\Problem1Volleyball\bin\Debug\Problem1Volleyball.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam10April2014Evening\Problem1Volleyball\bin\Debug\Problem1Volleyball.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam10April2014Evening\Problem1Volleyball\bin\Debug\Problem1Volleyball.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam10April2014Evening\Problem1Volleyball\obj\Debug\Problem1Volleyball.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam10April2014Evening\Problem1Volleyball\obj\Debug\Problem1Volleyball.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam10April2014Evening\Problem1Volleyball\obj\Debug\Problem1Volleyball.pdb

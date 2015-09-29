@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem14DecimalToBinaryNumber\bin\Debug\Problem14DecimalToBinaryNumber.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem14DecimalToBinaryNumber\bin\Debug\Problem14DecimalToBinaryNumber.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem14DecimalToBinaryNumber\bin\Debug\Problem14DecimalToBinaryNumber.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem14DecimalToBinaryNumber\obj\Debug\Problem14DecimalToBinaryNumber.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem14DecimalToBinaryNumber\obj\Debug\Problem14DecimalToBinaryNumber.pdb

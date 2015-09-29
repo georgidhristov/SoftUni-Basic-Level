@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsExam26April2015Morning\Problem5 BitsAtCrossroads\bin\Debug\Problem5 BitsAtCrossroads.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ProgrammingBasicsExam26April2015Morning\Problem5 BitsAtCrossroads\bin\Debug\Problem5 BitsAtCrossroads.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ProgrammingBasicsExam26April2015Morning\Problem5 BitsAtCrossroads\bin\Debug\Problem5 BitsAtCrossroads.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ProgrammingBasicsExam26April2015Morning\Problem5 BitsAtCrossroads\obj\Debug\Problem5 BitsAtCrossroads.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ProgrammingBasicsExam26April2015Morning\Problem5 BitsAtCrossroads\obj\Debug\Problem5 BitsAtCrossroads.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ProgrammingBasicsExam26April2015Morning\Problem5 BitsAtCrossroads\obj\Debug\Problem5 BitsAtCrossroads.pdb

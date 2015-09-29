@@ -1,0 +1,8 @@
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe.config
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.pdb
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.pdb

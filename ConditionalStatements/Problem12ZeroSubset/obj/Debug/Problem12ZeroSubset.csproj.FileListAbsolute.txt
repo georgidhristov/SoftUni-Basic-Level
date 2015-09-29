@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem12ZeroSubset\bin\Debug\Problem12ZeroSubset.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem12ZeroSubset\bin\Debug\Problem12ZeroSubset.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem12ZeroSubset\bin\Debug\Problem12ZeroSubset.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem12ZeroSubset\obj\Debug\Problem12ZeroSubset.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem12ZeroSubset\obj\Debug\Problem12ZeroSubset.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem12ZeroSubset\obj\Debug\Problem12ZeroSubset.pdb

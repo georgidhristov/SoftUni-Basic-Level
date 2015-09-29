@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem7JoinLists\bin\Debug\Problem7JoinLists.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem7JoinLists\bin\Debug\Problem7JoinLists.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem7JoinLists\bin\Debug\Problem7JoinLists.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem7JoinLists\obj\Debug\Problem7JoinLists.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem7JoinLists\obj\Debug\Problem7JoinLists.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem7JoinLists\obj\Debug\Problem7JoinLists.pdb

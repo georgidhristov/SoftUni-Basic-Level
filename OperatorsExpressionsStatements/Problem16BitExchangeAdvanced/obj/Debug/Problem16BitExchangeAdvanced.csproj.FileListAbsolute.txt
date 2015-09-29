@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem16BitExchangeAdvanced\bin\Debug\Problem16BitExchangeAdvanced.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem16BitExchangeAdvanced\bin\Debug\Problem16BitExchangeAdvanced.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem16BitExchangeAdvanced\bin\Debug\Problem16BitExchangeAdvanced.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem16BitExchangeAdvanced\obj\Debug\Problem16BitExchangeAdvanced.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem16BitExchangeAdvanced\obj\Debug\Problem16BitExchangeAdvanced.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem16BitExchangeAdvanced\obj\Debug\Problem16BitExchangeAdvanced.pdb

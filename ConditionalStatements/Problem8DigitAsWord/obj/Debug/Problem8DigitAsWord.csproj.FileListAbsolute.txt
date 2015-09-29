@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem8DigitAsWord\bin\Debug\Problem8DigitAsWord.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem8DigitAsWord\bin\Debug\Problem8DigitAsWord.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem8DigitAsWord\bin\Debug\Problem8DigitAsWord.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem8DigitAsWord\obj\Debug\Problem8DigitAsWord.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem8DigitAsWord\obj\Debug\Problem8DigitAsWord.pdb

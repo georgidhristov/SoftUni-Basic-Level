@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem24BitRoller\bin\Debug\Problem24BitRoller.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem24BitRoller\bin\Debug\Problem24BitRoller.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem24BitRoller\bin\Debug\Problem24BitRoller.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem24BitRoller\obj\Debug\Problem24BitRoller.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem24BitRoller\obj\Debug\Problem24BitRoller.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem24BitRoller\obj\Debug\Problem24BitRoller.pdb

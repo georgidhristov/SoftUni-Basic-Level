@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2013\Projects\Other\THE-EXAM-30.08\Problem5\bin\Debug\Problem5.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\Other\THE-EXAM-30.08\Problem5\bin\Debug\Problem5.exe
+c:\users\georgi\documents\visual studio 2013\Projects\Other\THE-EXAM-30.08\Problem5\bin\Debug\Problem5.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\Other\THE-EXAM-30.08\Problem5\obj\Debug\Problem5.exe
+c:\users\georgi\documents\visual studio 2013\Projects\Other\THE-EXAM-30.08\Problem5\obj\Debug\Problem5.pdb

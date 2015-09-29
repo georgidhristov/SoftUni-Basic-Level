@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem4MultiplicationSign\bin\Debug\Problem4MultiplicationSign.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem4MultiplicationSign\bin\Debug\Problem4MultiplicationSign.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem4MultiplicationSign\bin\Debug\Problem4MultiplicationSign.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem4MultiplicationSign\obj\Debug\Problem4MultiplicationSign.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem4MultiplicationSign\obj\Debug\Problem4MultiplicationSign.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem4MultiplicationSign\obj\Debug\Problem4MultiplicationSign.pdb

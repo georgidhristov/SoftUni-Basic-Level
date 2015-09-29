@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam10April2014Evening\Problem4HayvanNumbers\bin\Debug\Problem4HayvanNumbers.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam10April2014Evening\Problem4HayvanNumbers\bin\Debug\Problem4HayvanNumbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam10April2014Evening\Problem4HayvanNumbers\bin\Debug\Problem4HayvanNumbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam10April2014Evening\Problem4HayvanNumbers\obj\Debug\Problem4HayvanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam10April2014Evening\Problem4HayvanNumbers\obj\Debug\Problem4HayvanNumbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam10April2014Evening\Problem4HayvanNumbers\obj\Debug\Problem4HayvanNumbers.pdb

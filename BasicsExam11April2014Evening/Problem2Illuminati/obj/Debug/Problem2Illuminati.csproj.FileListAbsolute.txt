@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2013\Projects\BasicsExam11April2014Evening\Problem2Illuminati\bin\Debug\Problem2Illuminati.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\BasicsExam11April2014Evening\Problem2Illuminati\bin\Debug\Problem2Illuminati.exe
+c:\users\georgi\documents\visual studio 2013\Projects\BasicsExam11April2014Evening\Problem2Illuminati\bin\Debug\Problem2Illuminati.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\BasicsExam11April2014Evening\Problem2Illuminati\obj\Debug\Problem2Illuminati.exe
+c:\users\georgi\documents\visual studio 2013\Projects\BasicsExam11April2014Evening\Problem2Illuminati\obj\Debug\Problem2Illuminati.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\BasicsExam11April2014Evening\Problem2Illuminati\obj\Debug\Problem2Illuminati.csprojResolveAssemblyReference.cache

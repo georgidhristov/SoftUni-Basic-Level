@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsExam26April2015Morning\Problem3KingOfThieves\bin\Debug\Problem3KingOfThieves.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsExam26April2015Morning\Problem3KingOfThieves\bin\Debug\Problem3KingOfThieves.exe
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsExam26April2015Morning\Problem3KingOfThieves\bin\Debug\Problem3KingOfThieves.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsExam26April2015Morning\Problem3KingOfThieves\obj\Debug\Problem3KingOfThieves.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsExam26April2015Morning\Problem3KingOfThieves\obj\Debug\Problem3KingOfThieves.exe
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsExam26April2015Morning\Problem3KingOfThieves\obj\Debug\Problem3KingOfThieves.pdb

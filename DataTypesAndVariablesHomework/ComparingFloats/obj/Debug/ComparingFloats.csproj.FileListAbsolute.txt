@@ -1,0 +1,8 @@
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\ComparingFloats\bin\Debug\ComparingFloats.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\ComparingFloats\bin\Debug\ComparingFloats.pdb
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\ComparingFloats\obj\Debug\ComparingFloats.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\ComparingFloats\obj\Debug\ComparingFloats.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\ComparingFloats\obj\Debug\ComparingFloats.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\ComparingFloats\obj\Debug\ComparingFloats.pdb

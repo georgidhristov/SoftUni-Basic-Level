@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem19The Explorer\bin\Debug\Problem19The Explorer.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem19The Explorer\bin\Debug\Problem19The Explorer.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem19The Explorer\bin\Debug\Problem19The Explorer.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem19The Explorer\obj\Debug\Problem19The Explorer.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem19The Explorer\obj\Debug\Problem19The Explorer.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem19The Explorer\obj\Debug\Problem19The Explorer.pdb

@@ -1,0 +1,6 @@
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\NumbersInIntervalDividableByGiven Number\bin\Debug\NumbersInIntervalDividableByGiven Number.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\NumbersInIntervalDividableByGiven Number\obj\Debug\NumbersInIntervalDividableByGiven Number.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\NumbersInIntervalDividableByGiven Number\obj\Debug\NumbersInIntervalDividableByGiven Number.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\NumbersInIntervalDividableByGiven Number\bin\Debug\NumbersInIntervalDividableByGiven Number.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\NumbersInIntervalDividableByGiven Number\obj\Debug\NumbersInIntervalDividableByGiven Number.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\NumbersInIntervalDividableByGiven Number\obj\Debug\NumbersInIntervalDividableByGiven Number.pdb

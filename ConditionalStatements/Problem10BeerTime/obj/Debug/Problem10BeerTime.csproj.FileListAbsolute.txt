@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem10BeerTime\bin\Debug\Problem10BeerTime.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem10BeerTime\bin\Debug\Problem10BeerTime.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem10BeerTime\bin\Debug\Problem10BeerTime.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem10BeerTime\obj\Debug\Problem10BeerTime.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem10BeerTime\obj\Debug\Problem10BeerTime.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem10BeerTime\obj\Debug\Problem10BeerTime.csprojResolveAssemblyReference.cache

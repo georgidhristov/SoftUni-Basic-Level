@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem15House\bin\Debug\Problem15House.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem15House\bin\Debug\Problem15House.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem15House\bin\Debug\Problem15House.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem15House\obj\Debug\Problem15House.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem15House\obj\Debug\Problem15House.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem15House\obj\Debug\Problem15House.csprojResolveAssemblyReference.cache

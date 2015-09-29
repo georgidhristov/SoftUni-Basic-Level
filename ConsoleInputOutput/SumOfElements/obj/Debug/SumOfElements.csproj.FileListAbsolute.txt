@@ -1,0 +1,12 @@
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfElements\bin\Debug\SumOfElements.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfElements\bin\Debug\SumOfElements.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfElements\bin\Debug\SumOfElements.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfElements\obj\Debug\SumOfElements.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfElements\obj\Debug\SumOfElements.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\SumOfElements\obj\Debug\SumOfElements.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\SumOfElements\bin\Debug\SumOfElements.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\SumOfElements\obj\Debug\SumOfElements.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\SumOfElements\obj\Debug\SumOfElements.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\SumOfElements\bin\Debug\SumOfElements.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\SumOfElements\bin\Debug\SumOfElements.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\SumOfElements\obj\Debug\SumOfElements.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\georgi\documents\visual studio 2013\Projects\BasicsExam10April2014Evening\Problem3Eclipse\bin\Debug\Problem3Eclipse.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\BasicsExam10April2014Evening\Problem3Eclipse\bin\Debug\Problem3Eclipse.exe
+c:\users\georgi\documents\visual studio 2013\Projects\BasicsExam10April2014Evening\Problem3Eclipse\bin\Debug\Problem3Eclipse.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\BasicsExam10April2014Evening\Problem3Eclipse\obj\Debug\Problem3Eclipse.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2013\Projects\BasicsExam10April2014Evening\Problem3Eclipse\obj\Debug\Problem3Eclipse.exe
+c:\users\georgi\documents\visual studio 2013\Projects\BasicsExam10April2014Evening\Problem3Eclipse\obj\Debug\Problem3Eclipse.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ProgrammingBasic\BasicsExam10April2014Evening\Problem3Eclipse\bin\Debug\Problem3Eclipse.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ProgrammingBasic\BasicsExam10April2014Evening\Problem3Eclipse\obj\Debug\Problem3Eclipse.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ProgrammingBasic\BasicsExam10April2014Evening\Problem3Eclipse\obj\Debug\Problem3Eclipse.pdb

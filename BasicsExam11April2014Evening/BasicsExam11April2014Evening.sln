@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1Cinema", "Problem1Cinema\Problem1Cinema.csproj", "{DD710E5D-135C-4470-B394-2D7617E039B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2Illuminati", "Problem2Illuminati\Problem2Illuminati.csproj", "{C4EFE3F8-E226-4C87-AA53-9AE3812D0F1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem4CrossingSequences", "Problem4CrossingSequences\Problem4CrossingSequences.csproj", "{9FFE3743-09C7-4973-A7B3-D33AE3DA20E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem5CatchTheBits", "Problem5CatchTheBits\Problem5CatchTheBits.csproj", "{2BF3421A-D874-445B-82A1-14787590514C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD710E5D-135C-4470-B394-2D7617E039B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD710E5D-135C-4470-B394-2D7617E039B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD710E5D-135C-4470-B394-2D7617E039B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD710E5D-135C-4470-B394-2D7617E039B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4EFE3F8-E226-4C87-AA53-9AE3812D0F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4EFE3F8-E226-4C87-AA53-9AE3812D0F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4EFE3F8-E226-4C87-AA53-9AE3812D0F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4EFE3F8-E226-4C87-AA53-9AE3812D0F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FFE3743-09C7-4973-A7B3-D33AE3DA20E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FFE3743-09C7-4973-A7B3-D33AE3DA20E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FFE3743-09C7-4973-A7B3-D33AE3DA20E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FFE3743-09C7-4973-A7B3-D33AE3DA20E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF3421A-D874-445B-82A1-14787590514C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF3421A-D874-445B-82A1-14787590514C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF3421A-D874-445B-82A1-14787590514C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF3421A-D874-445B-82A1-14787590514C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

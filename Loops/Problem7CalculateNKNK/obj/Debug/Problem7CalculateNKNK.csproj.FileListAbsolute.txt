@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem7CalculateNKNK\bin\Debug\Problem7CalculateNKNK.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem7CalculateNKNK\bin\Debug\Problem7CalculateNKNK.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem7CalculateNKNK\bin\Debug\Problem7CalculateNKNK.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem7CalculateNKNK\obj\Debug\Problem7CalculateNKNK.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem7CalculateNKNK\obj\Debug\Problem7CalculateNKNK.pdb

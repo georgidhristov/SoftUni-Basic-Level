@@ -1,0 +1,10 @@
+c:\users\georgi\documents\visual studio 2013\Projects\Loops\Problem22Arrow\bin\Debug\Problem22Arrow.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\Loops\Problem22Arrow\bin\Debug\Problem22Arrow.exe
+c:\users\georgi\documents\visual studio 2013\Projects\Loops\Problem22Arrow\bin\Debug\Problem22Arrow.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\Loops\Problem22Arrow\obj\Debug\Problem22Arrow.exe
+c:\users\georgi\documents\visual studio 2013\Projects\Loops\Problem22Arrow\obj\Debug\Problem22Arrow.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem22Arrow\bin\Debug\Problem22Arrow.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem22Arrow\obj\Debug\Problem22Arrow.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem22Arrow\obj\Debug\Problem22Arrow.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem22Arrow\bin\Debug\Problem22Arrow.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem22Arrow\bin\Debug\Problem22Arrow.pdb

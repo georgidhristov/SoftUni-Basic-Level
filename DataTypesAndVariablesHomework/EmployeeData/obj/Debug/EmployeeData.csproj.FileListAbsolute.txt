@@ -1,0 +1,8 @@
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\EmployeeData\obj\Debug\EmployeeData.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\EmployeeData\obj\Debug\EmployeeData.pdb

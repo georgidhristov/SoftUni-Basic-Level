@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem7Sort3NumbersWithNestedLfs\bin\Debug\Problem7Sort3NumbersWithNestedLfs.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem7Sort3NumbersWithNestedLfs\bin\Debug\Problem7Sort3NumbersWithNestedLfs.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem7Sort3NumbersWithNestedLfs\bin\Debug\Problem7Sort3NumbersWithNestedLfs.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem7Sort3NumbersWithNestedLfs\obj\Debug\Problem7Sort3NumbersWithNestedLfs.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem7Sort3NumbersWithNestedLfs\obj\Debug\Problem7Sort3NumbersWithNestedLfs.pdb

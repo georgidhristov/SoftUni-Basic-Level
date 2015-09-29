@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem11NumberAsWords\bin\Debug\Problem11NumberAsWords.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem11NumberAsWords\bin\Debug\Problem11NumberAsWords.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem11NumberAsWords\bin\Debug\Problem11NumberAsWords.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem11NumberAsWords\obj\Debug\Problem11NumberAsWords.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem11NumberAsWords\obj\Debug\Problem11NumberAsWords.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem11NumberAsWords\obj\Debug\Problem11NumberAsWords.pdb

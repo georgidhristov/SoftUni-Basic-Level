@@ -1,0 +1,3 @@
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\Sunglasses\bin\Debug\Sunglasses.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\Sunglasses\bin\Debug\Sunglasses.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\DataTypesAndVariablesHomework\Sunglasses\bin\Debug\Sunglasses.exe.config

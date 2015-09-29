@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem11StudentCables\bin\Debug\Problem11StudentCables.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem11StudentCables\bin\Debug\Problem11StudentCables.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem11StudentCables\bin\Debug\Problem11StudentCables.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem11StudentCables\obj\Debug\Problem11StudentCables.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem11StudentCables\obj\Debug\Problem11StudentCables.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem11StudentCables\obj\Debug\Problem11StudentCables.csprojResolveAssemblyReference.cache

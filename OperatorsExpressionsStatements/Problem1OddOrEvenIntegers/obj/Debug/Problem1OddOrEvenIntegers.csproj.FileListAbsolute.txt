@@ -1,0 +1,9 @@
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem1OddOrEvenIntegers\bin\Debug\Problem1OddOrEvenIntegers.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem1OddOrEvenIntegers\bin\Debug\Problem1OddOrEvenIntegers.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem1OddOrEvenIntegers\bin\Debug\Problem1OddOrEvenIntegers.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem1OddOrEvenIntegers\obj\Debug\Problem1OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem1OddOrEvenIntegers\obj\Debug\Problem1OddOrEvenIntegers.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem1OddOrEvenIntegers\obj\Debug\Problem1OddOrEvenIntegers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem1OddOrEvenIntegers\bin\Debug\Problem1OddOrEvenIntegers.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem1OddOrEvenIntegers\obj\Debug\Problem1OddOrEvenIntegers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem1OddOrEvenIntegers\obj\Debug\Problem1OddOrEvenIntegers.pdb

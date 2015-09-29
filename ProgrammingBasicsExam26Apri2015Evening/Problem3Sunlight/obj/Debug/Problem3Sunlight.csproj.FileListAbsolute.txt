@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsExam26Apri2015Evening\Problem3Sunlight\bin\Debug\Problem3Sunlight.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsExam26Apri2015Evening\Problem3Sunlight\bin\Debug\Problem3Sunlight.exe
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsExam26Apri2015Evening\Problem3Sunlight\bin\Debug\Problem3Sunlight.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsExam26Apri2015Evening\Problem3Sunlight\obj\Debug\Problem3Sunlight.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsExam26Apri2015Evening\Problem3Sunlight\obj\Debug\Problem3Sunlight.exe
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsExam26Apri2015Evening\Problem3Sunlight\obj\Debug\Problem3Sunlight.pdb

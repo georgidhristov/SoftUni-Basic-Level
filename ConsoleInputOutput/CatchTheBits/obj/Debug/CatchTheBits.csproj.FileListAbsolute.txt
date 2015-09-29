@@ -1,0 +1,9 @@
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\CatchTheBits\bin\Debug\CatchTheBits.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\CatchTheBits\bin\Debug\CatchTheBits.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\CatchTheBits\bin\Debug\CatchTheBits.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\CatchTheBits\obj\Debug\CatchTheBits.csprojResolveAssemblyReference.cache
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\CatchTheBits\obj\Debug\CatchTheBits.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\CatchTheBits\obj\Debug\CatchTheBits.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\CatchTheBits\bin\Debug\CatchTheBits.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\CatchTheBits\obj\Debug\CatchTheBits.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\CatchTheBits\obj\Debug\CatchTheBits.pdb

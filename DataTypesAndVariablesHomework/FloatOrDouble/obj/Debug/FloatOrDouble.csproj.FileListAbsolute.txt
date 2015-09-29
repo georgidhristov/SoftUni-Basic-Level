@@ -1,0 +1,5 @@
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

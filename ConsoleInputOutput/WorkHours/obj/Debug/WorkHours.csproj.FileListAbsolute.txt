@@ -1,0 +1,9 @@
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\WorkHours\bin\Debug\WorkHours.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\WorkHours\bin\Debug\WorkHours.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\WorkHours\bin\Debug\WorkHours.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\WorkHours\obj\Debug\WorkHours.csprojResolveAssemblyReference.cache
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\WorkHours\obj\Debug\WorkHours.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\WorkHours\obj\Debug\WorkHours.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\WorkHours\bin\Debug\WorkHours.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\WorkHours\obj\Debug\WorkHours.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\WorkHours\obj\Debug\WorkHours.pdb

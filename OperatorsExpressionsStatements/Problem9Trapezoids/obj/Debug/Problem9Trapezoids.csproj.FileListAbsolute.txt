@@ -1,0 +1,11 @@
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem9Trapezoids\bin\Debug\Problem9Trapezoids.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem9Trapezoids\bin\Debug\Problem9Trapezoids.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem9Trapezoids\bin\Debug\Problem9Trapezoids.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem9Trapezoids\obj\Debug\Problem9Trapezoids.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem9Trapezoids\obj\Debug\Problem9Trapezoids.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem9Trapezoids\bin\Debug\Problem9Trapezoids.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem9Trapezoids\obj\Debug\Problem9Trapezoids.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem9Trapezoids\obj\Debug\Problem9Trapezoids.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem9Trapezoids\bin\Debug\Problem9Trapezoids.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem9Trapezoids\bin\Debug\Problem9Trapezoids.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem9Trapezoids\obj\Debug\Problem9Trapezoids.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam11April2014Evening\Problem5CatchTheBits\bin\Debug\Problem5CatchTheBits.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam11April2014Evening\Problem5CatchTheBits\bin\Debug\Problem5CatchTheBits.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam11April2014Evening\Problem5CatchTheBits\bin\Debug\Problem5CatchTheBits.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam11April2014Evening\Problem5CatchTheBits\obj\Debug\Problem5CatchTheBits.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam11April2014Evening\Problem5CatchTheBits\obj\Debug\Problem5CatchTheBits.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam11April2014Evening\Problem5CatchTheBits\obj\Debug\Problem5CatchTheBits.pdb

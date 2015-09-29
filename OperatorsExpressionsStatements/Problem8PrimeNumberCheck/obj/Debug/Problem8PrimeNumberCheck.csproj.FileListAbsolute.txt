@@ -1,0 +1,9 @@
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem8PrimeNumberCheck\bin\Debug\Problem8PrimeNumberCheck.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem8PrimeNumberCheck\bin\Debug\Problem8PrimeNumberCheck.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem8PrimeNumberCheck\bin\Debug\Problem8PrimeNumberCheck.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem8PrimeNumberCheck\obj\Debug\Problem8PrimeNumberCheck.csprojResolveAssemblyReference.cache
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem8PrimeNumberCheck\obj\Debug\Problem8PrimeNumberCheck.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem8PrimeNumberCheck\obj\Debug\Problem8PrimeNumberCheck.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem8PrimeNumberCheck\bin\Debug\Problem8PrimeNumberCheck.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem8PrimeNumberCheck\obj\Debug\Problem8PrimeNumberCheck.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem8PrimeNumberCheck\obj\Debug\Problem8PrimeNumberCheck.pdb

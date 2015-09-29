@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem14BitFlipper\bin\Debug\Problem14BitFlipper.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem14BitFlipper\bin\Debug\Problem14BitFlipper.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem14BitFlipper\bin\Debug\Problem14BitFlipper.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem14BitFlipper\obj\Debug\Problem14BitFlipper.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem14BitFlipper\obj\Debug\Problem14BitFlipper.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem14BitFlipper\obj\Debug\Problem14BitFlipper.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem12ProgrammerDNA\bin\Debug\Problem12ProgrammerDNA.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem12ProgrammerDNA\bin\Debug\Problem12ProgrammerDNA.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem12ProgrammerDNA\bin\Debug\Problem12ProgrammerDNA.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem12ProgrammerDNA\obj\Debug\Problem12ProgrammerDNA.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem12ProgrammerDNA\obj\Debug\Problem12ProgrammerDNA.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem12ProgrammerDNA\obj\Debug\Problem12ProgrammerDNA.pdb

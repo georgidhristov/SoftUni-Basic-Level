@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ProgrammingBasicsExam12July2015\Problem3SummertimeForProgrammers\bin\Debug\Problem3SummertimeForProgrammers.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ProgrammingBasicsExam12July2015\Problem3SummertimeForProgrammers\bin\Debug\Problem3SummertimeForProgrammers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ProgrammingBasicsExam12July2015\Problem3SummertimeForProgrammers\bin\Debug\Problem3SummertimeForProgrammers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ProgrammingBasicsExam12July2015\Problem3SummertimeForProgrammers\obj\Debug\Problem3SummertimeForProgrammers.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ProgrammingBasicsExam12July2015\Problem3SummertimeForProgrammers\obj\Debug\Problem3SummertimeForProgrammers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ProgrammingBasicsExam12July2015\Problem3SummertimeForProgrammers\obj\Debug\Problem3SummertimeForProgrammers.pdb

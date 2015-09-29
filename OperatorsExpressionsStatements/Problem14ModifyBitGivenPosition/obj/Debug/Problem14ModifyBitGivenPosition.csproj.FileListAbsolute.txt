@@ -1,0 +1,2 @@
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem14ModifyBitGivenPosition\bin\Debug\Problem14ModifyBitGivenPosition.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem14ModifyBitGivenPosition\bin\Debug\Problem14ModifyBitGivenPosition.exe.config

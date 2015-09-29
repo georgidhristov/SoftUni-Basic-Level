@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem15BitsExchange\bin\Debug\Problem15BitsExchange.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem15BitsExchange\bin\Debug\Problem15BitsExchange.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem15BitsExchange\bin\Debug\Problem15BitsExchange.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem15BitsExchange\obj\Debug\Problem15BitsExchange.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem15BitsExchange\obj\Debug\Problem15BitsExchange.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem15BitsExchange\obj\Debug\Problem15BitsExchange.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem21OddEvenElements\bin\Debug\Problem21OddEvenElements.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem21OddEvenElements\bin\Debug\Problem21OddEvenElements.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem21OddEvenElements\bin\Debug\Problem21OddEvenElements.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem21OddEvenElements\obj\Debug\Problem21OddEvenElements.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem21OddEvenElements\obj\Debug\Problem21OddEvenElements.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem21OddEvenElements\obj\Debug\Problem21OddEvenElements.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsLab16August2015\Problem2AniIsDrunk\bin\Debug\Problem2AniIsDrunk.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsLab16August2015\Problem2AniIsDrunk\bin\Debug\Problem2AniIsDrunk.exe
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsLab16August2015\Problem2AniIsDrunk\bin\Debug\Problem2AniIsDrunk.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsLab16August2015\Problem2AniIsDrunk\obj\Debug\Problem2AniIsDrunk.exe
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsLab16August2015\Problem2AniIsDrunk\obj\Debug\Problem2AniIsDrunk.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ProgrammingBasicsLab16August2015\Problem2AniIsDrunk\obj\Debug\Problem2AniIsDrunk.csprojResolveAssemblyReference.cache

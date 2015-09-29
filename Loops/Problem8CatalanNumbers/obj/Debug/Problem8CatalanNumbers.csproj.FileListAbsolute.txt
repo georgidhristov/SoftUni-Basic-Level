@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem8CatalanNumbers\bin\Debug\Problem8CatalanNumbers.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem8CatalanNumbers\bin\Debug\Problem8CatalanNumbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem8CatalanNumbers\bin\Debug\Problem8CatalanNumbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem8CatalanNumbers\obj\Debug\Problem8CatalanNumbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem8CatalanNumbers\obj\Debug\Problem8CatalanNumbers.pdb

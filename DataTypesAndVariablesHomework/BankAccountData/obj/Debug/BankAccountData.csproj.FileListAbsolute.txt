@@ -1,0 +1,14 @@
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\BankAccountData\bin\Debug\BankAccountData.exe.config
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\BankAccountData\bin\Debug\BankAccountData.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\BankAccountData\bin\Debug\BankAccountData.pdb
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\BankAccountData\obj\Debug\BankAccountData.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\BankAccountData\obj\Debug\BankAccountData.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\BankAccountData\bin\Debug\BankAccountData.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\BankAccountData\obj\Debug\BankAccountData.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\BankAccountData\obj\Debug\BankAccountData.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\BankAccountData\bin\Debug\BankAccountData.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\BankAccountData\bin\Debug\BankAccountData.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\BankAccountData\obj\Debug\BankAccountData.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\DataTypesAndVariablesHomework\BankAccountData\bin\Debug\BankAccountData.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\DataTypesAndVariablesHomework\BankAccountData\obj\Debug\BankAccountData.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\DataTypesAndVariablesHomework\BankAccountData\obj\Debug\BankAccountData.pdb

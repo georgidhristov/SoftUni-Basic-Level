@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem6TheBiggestOfFiveNumbers\bin\Debug\Problem6TheBiggestOfFiveNumbers.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem6TheBiggestOfFiveNumbers\bin\Debug\Problem6TheBiggestOfFiveNumbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem6TheBiggestOfFiveNumbers\bin\Debug\Problem6TheBiggestOfFiveNumbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem6TheBiggestOfFiveNumbers\obj\Debug\Problem6TheBiggestOfFiveNumbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem6TheBiggestOfFiveNumbers\obj\Debug\Problem6TheBiggestOfFiveNumbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem6TheBiggestOfFiveNumbers\obj\Debug\Problem6TheBiggestOfFiveNumbers.csprojResolveAssemblyReference.cache

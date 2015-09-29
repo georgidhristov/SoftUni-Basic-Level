@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem4MatrixOfPalindromes\bin\Debug\Problem4MatrixOfPalindromes.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem4MatrixOfPalindromes\bin\Debug\Problem4MatrixOfPalindromes.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem4MatrixOfPalindromes\bin\Debug\Problem4MatrixOfPalindromes.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem4MatrixOfPalindromes\obj\Debug\Problem4MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem4MatrixOfPalindromes\obj\Debug\Problem4MatrixOfPalindromes.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem4MatrixOfPalindromes\obj\Debug\Problem4MatrixOfPalindromes.pdb

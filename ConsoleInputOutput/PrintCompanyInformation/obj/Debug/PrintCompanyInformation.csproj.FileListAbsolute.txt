@@ -1,0 +1,8 @@
+c:\users\georg_000\documents\visual studio 2013\Projects\ConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe.config
+c:\users\georg_000\documents\visual studio 2013\Projects\ConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe
+c:\users\georg_000\documents\visual studio 2013\Projects\ConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.pdb
+c:\users\georg_000\documents\visual studio 2013\Projects\ConsoleInputOutput\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
+c:\users\georg_000\documents\visual studio 2013\Projects\ConsoleInputOutput\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb

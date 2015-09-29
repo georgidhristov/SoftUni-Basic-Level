@@ -1,0 +1,12 @@
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\NewHouse\bin\Debug\NewHouse.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\NewHouse\bin\Debug\NewHouse.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\NewHouse\bin\Debug\NewHouse.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\NewHouse\obj\Debug\NewHouse.csprojResolveAssemblyReference.cache
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\NewHouse\obj\Debug\NewHouse.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\NewHouse\obj\Debug\NewHouse.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\NewHouse\bin\Debug\NewHouse.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\NewHouse\obj\Debug\NewHouse.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\NewHouse\obj\Debug\NewHouse.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\NewHouse\bin\Debug\NewHouse.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\NewHouse\bin\Debug\NewHouse.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConsoleInputOutput\NewHouse\obj\Debug\NewHouse.csprojResolveAssemblyReference.cache

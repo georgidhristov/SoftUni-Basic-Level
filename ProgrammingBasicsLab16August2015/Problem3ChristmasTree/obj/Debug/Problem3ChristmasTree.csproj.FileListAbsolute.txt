@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsLab16August2015\Problem3ChristmasTree\bin\Debug\Problem3ChristmasTree.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsLab16August2015\Problem3ChristmasTree\bin\Debug\Problem3ChristmasTree.exe
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsLab16August2015\Problem3ChristmasTree\bin\Debug\Problem3ChristmasTree.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsLab16August2015\Problem3ChristmasTree\obj\Debug\Problem3ChristmasTree.exe
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsLab16August2015\Problem3ChristmasTree\obj\Debug\Problem3ChristmasTree.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\ProgrammingBasicsLab16August2015\Problem3ChristmasTree\obj\Debug\Problem3ChristmasTree.csprojResolveAssemblyReference.cache

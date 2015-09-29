@@ -1,0 +1,6 @@
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem4Rectangles\bin\Debug\Problem4Rectangles.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem4Rectangles\bin\Debug\Problem4Rectangles.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem4Rectangles\bin\Debug\Problem4Rectangles.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem4Rectangles\obj\Debug\Problem4Rectangles.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem4Rectangles\obj\Debug\Problem4Rectangles.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem4Rectangles\obj\Debug\Problem4Rectangles.csprojResolveAssemblyReference.cache

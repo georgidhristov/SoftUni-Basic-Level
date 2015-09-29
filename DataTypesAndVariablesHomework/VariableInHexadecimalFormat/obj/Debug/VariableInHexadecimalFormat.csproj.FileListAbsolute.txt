@@ -1,0 +1,11 @@
+c:\users\hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+c:\users\hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+c:\users\hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\DataTypesAndVariablesHomework\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\DataTypesAndVariablesHomework\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\DataTypesAndVariablesHomework\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb

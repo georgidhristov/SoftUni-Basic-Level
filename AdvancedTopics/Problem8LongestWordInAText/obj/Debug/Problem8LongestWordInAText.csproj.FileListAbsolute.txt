@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem8LongestWordInAText\bin\Debug\Problem8LongestWordInAText.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem8LongestWordInAText\bin\Debug\Problem8LongestWordInAText.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem8LongestWordInAText\bin\Debug\Problem8LongestWordInAText.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem8LongestWordInAText\obj\Debug\Problem8LongestWordInAText.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem8LongestWordInAText\obj\Debug\Problem8LongestWordInAText.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem8LongestWordInAText\obj\Debug\Problem8LongestWordInAText.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem7PointInACircle\bin\Debug\Problem7PointInACircle.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem7PointInACircle\bin\Debug\Problem7PointInACircle.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem7PointInACircle\bin\Debug\Problem7PointInACircle.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem7PointInACircle\obj\Debug\Problem7PointInACircle.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem7PointInACircle\obj\Debug\Problem7PointInACircle.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem7PointInACircle\bin\Debug\Problem7PointInACircle.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem7PointInACircle\obj\Debug\Problem7PointInACircle.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem7PointInACircle\obj\Debug\Problem7PointInACircle.pdb

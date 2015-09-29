@@ -1,0 +1,9 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam10April2014Evening\Problem2OddEvenSum\bin\Debug\Problem2OddEvenSum.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam10April2014Evening\Problem2OddEvenSum\bin\Debug\Problem2OddEvenSum.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam10April2014Evening\Problem2OddEvenSum\bin\Debug\Problem2OddEvenSum.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam10April2014Evening\Problem2OddEvenSum\obj\Debug\Problem2OddEvenSum.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam10April2014Evening\Problem2OddEvenSum\obj\Debug\Problem2OddEvenSum.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam10April2014Evening\Problem2OddEvenSum\obj\Debug\Problem2OddEvenSum.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ProgrammingBasic\BasicsExam10April2014Evening\Problem2OddEvenSum\bin\Debug\Problem2OddEvenSum.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ProgrammingBasic\BasicsExam10April2014Evening\Problem2OddEvenSum\obj\Debug\Problem2OddEvenSum.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ProgrammingBasic\BasicsExam10April2014Evening\Problem2OddEvenSum\obj\Debug\Problem2OddEvenSum.pdb

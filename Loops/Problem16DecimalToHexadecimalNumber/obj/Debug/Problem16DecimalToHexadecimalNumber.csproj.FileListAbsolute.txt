@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem16DecimalToHexadecimalNumber\bin\Debug\Problem16DecimalToHexadecimalNumber.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem16DecimalToHexadecimalNumber\bin\Debug\Problem16DecimalToHexadecimalNumber.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem16DecimalToHexadecimalNumber\bin\Debug\Problem16DecimalToHexadecimalNumber.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem16DecimalToHexadecimalNumber\obj\Debug\Problem16DecimalToHexadecimalNumber.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem16DecimalToHexadecimalNumber\obj\Debug\Problem16DecimalToHexadecimalNumber.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem16DecimalToHexadecimalNumber\obj\Debug\Problem16DecimalToHexadecimalNumber.pdb

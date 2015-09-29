@@ -1,0 +1,8 @@
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem13CheckBitGivenPosition\bin\Debug\Problem13CheckBitGivenPosition.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem13CheckBitGivenPosition\bin\Debug\Problem13CheckBitGivenPosition.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem13CheckBitGivenPosition\bin\Debug\Problem13CheckBitGivenPosition.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem13CheckBitGivenPosition\obj\Debug\Problem13CheckBitGivenPosition.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem13CheckBitGivenPosition\obj\Debug\Problem13CheckBitGivenPosition.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem13CheckBitGivenPosition\bin\Debug\Problem13CheckBitGivenPosition.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem13CheckBitGivenPosition\obj\Debug\Problem13CheckBitGivenPosition.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem13CheckBitGivenPosition\obj\Debug\Problem13CheckBitGivenPosition.pdb

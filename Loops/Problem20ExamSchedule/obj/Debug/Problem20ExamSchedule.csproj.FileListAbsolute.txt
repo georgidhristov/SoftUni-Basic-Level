@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem20ExamSchedule\bin\Debug\Problem20ExamSchedule.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem20ExamSchedule\bin\Debug\Problem20ExamSchedule.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem20ExamSchedule\bin\Debug\Problem20ExamSchedule.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem20ExamSchedule\obj\Debug\Problem20ExamSchedule.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem20ExamSchedule\obj\Debug\Problem20ExamSchedule.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem20ExamSchedule\obj\Debug\Problem20ExamSchedule.pdb

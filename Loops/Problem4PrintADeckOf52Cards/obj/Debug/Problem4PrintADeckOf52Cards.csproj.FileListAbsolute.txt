@@ -1,0 +1,10 @@
+c:\users\georgi\documents\visual studio 2013\Projects\Loops\Problem4PrintADeckOf52Cards\bin\Debug\Problem4PrintADeckOf52Cards.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\Loops\Problem4PrintADeckOf52Cards\bin\Debug\Problem4PrintADeckOf52Cards.exe
+c:\users\georgi\documents\visual studio 2013\Projects\Loops\Problem4PrintADeckOf52Cards\bin\Debug\Problem4PrintADeckOf52Cards.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\Loops\Problem4PrintADeckOf52Cards\obj\Debug\Problem4PrintADeckOf52Cards.exe
+c:\users\georgi\documents\visual studio 2013\Projects\Loops\Problem4PrintADeckOf52Cards\obj\Debug\Problem4PrintADeckOf52Cards.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem4PrintADeckOf52Cards\bin\Debug\Problem4PrintADeckOf52Cards.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem4PrintADeckOf52Cards\obj\Debug\Problem4PrintADeckOf52Cards.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem4PrintADeckOf52Cards\obj\Debug\Problem4PrintADeckOf52Cards.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem4PrintADeckOf52Cards\bin\Debug\Problem4PrintADeckOf52Cards.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem4PrintADeckOf52Cards\bin\Debug\Problem4PrintADeckOf52Cards.pdb

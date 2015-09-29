@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam11April2014Evening\Problem4CrossingSequences\bin\Debug\Problem4CrossingSequences.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam11April2014Evening\Problem4CrossingSequences\bin\Debug\Problem4CrossingSequences.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam11April2014Evening\Problem4CrossingSequences\bin\Debug\Problem4CrossingSequences.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam11April2014Evening\Problem4CrossingSequences\obj\Debug\Problem4CrossingSequences.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\BasicsExam11April2014Evening\Problem4CrossingSequences\obj\Debug\Problem4CrossingSequences.pdb

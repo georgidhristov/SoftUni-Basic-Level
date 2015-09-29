@@ -1,0 +1,5 @@
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem5ThirdDigitIs7\bin\Debug\Problem5ThirdDigitIs7.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem5ThirdDigitIs7\bin\Debug\Problem5ThirdDigitIs7.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem5ThirdDigitIs7\bin\Debug\Problem5ThirdDigitIs7.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem5ThirdDigitIs7\obj\Debug\Problem5ThirdDigitIs7.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem5ThirdDigitIs7\obj\Debug\Problem5ThirdDigitIs7.pdb

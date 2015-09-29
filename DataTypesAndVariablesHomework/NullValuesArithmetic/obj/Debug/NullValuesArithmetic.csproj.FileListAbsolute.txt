@@ -1,0 +1,8 @@
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe.config
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.pdb
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb

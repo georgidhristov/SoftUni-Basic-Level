@@ -1,0 +1,9 @@
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem6FourDigitNumber\bin\Debug\Problem6FourDigitNumber.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem6FourDigitNumber\bin\Debug\Problem6FourDigitNumber.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem6FourDigitNumber\bin\Debug\Problem6FourDigitNumber.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem6FourDigitNumber\obj\Debug\Problem6FourDigitNumber.csprojResolveAssemblyReference.cache
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem6FourDigitNumber\obj\Debug\Problem6FourDigitNumber.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem6FourDigitNumber\obj\Debug\Problem6FourDigitNumber.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem6FourDigitNumber\bin\Debug\Problem6FourDigitNumber.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem6FourDigitNumber\obj\Debug\Problem6FourDigitNumber.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem6FourDigitNumber\obj\Debug\Problem6FourDigitNumber.pdb

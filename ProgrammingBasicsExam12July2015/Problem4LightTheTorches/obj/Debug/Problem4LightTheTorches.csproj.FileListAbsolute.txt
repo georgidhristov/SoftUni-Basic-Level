@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ProgrammingBasicsExam12July2015\Problem4LightTheTorches\bin\Debug\Problem4LightTheTorches.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ProgrammingBasicsExam12July2015\Problem4LightTheTorches\bin\Debug\Problem4LightTheTorches.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ProgrammingBasicsExam12July2015\Problem4LightTheTorches\bin\Debug\Problem4LightTheTorches.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ProgrammingBasicsExam12July2015\Problem4LightTheTorches\obj\Debug\Problem4LightTheTorches.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ProgrammingBasicsExam12July2015\Problem4LightTheTorches\obj\Debug\Problem4LightTheTorches.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ProgrammingBasicsExam12July2015\Problem4LightTheTorches\obj\Debug\Problem4LightTheTorches.pdb

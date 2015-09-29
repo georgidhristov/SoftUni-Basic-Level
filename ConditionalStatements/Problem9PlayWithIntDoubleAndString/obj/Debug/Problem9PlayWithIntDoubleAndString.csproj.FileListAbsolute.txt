@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem9PlayWithIntDoubleAndString\bin\Debug\Problem9PlayWithIntDoubleAndString.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem9PlayWithIntDoubleAndString\bin\Debug\Problem9PlayWithIntDoubleAndString.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem9PlayWithIntDoubleAndString\bin\Debug\Problem9PlayWithIntDoubleAndString.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem9PlayWithIntDoubleAndString\obj\Debug\Problem9PlayWithIntDoubleAndString.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem9PlayWithIntDoubleAndString\obj\Debug\Problem9PlayWithIntDoubleAndString.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem9PlayWithIntDoubleAndString\obj\Debug\Problem9PlayWithIntDoubleAndString.pdb

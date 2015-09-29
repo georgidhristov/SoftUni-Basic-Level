@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem20BitsUp\bin\Debug\Problem20BitsUp.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem20BitsUp\bin\Debug\Problem20BitsUp.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem20BitsUp\bin\Debug\Problem20BitsUp.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem20BitsUp\obj\Debug\Problem20BitsUp.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem20BitsUp\obj\Debug\Problem20BitsUp.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem20BitsUp\obj\Debug\Problem20BitsUp.csprojResolveAssemblyReference.cache

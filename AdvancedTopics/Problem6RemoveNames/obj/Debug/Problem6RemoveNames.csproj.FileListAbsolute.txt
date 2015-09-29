@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem6RemoveNames\bin\Debug\Problem6RemoveNames.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem6RemoveNames\bin\Debug\Problem6RemoveNames.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem6RemoveNames\bin\Debug\Problem6RemoveNames.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem6RemoveNames\obj\Debug\Problem6RemoveNames.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\AdvancedTopics\Problem6RemoveNames\obj\Debug\Problem6RemoveNames.pdb

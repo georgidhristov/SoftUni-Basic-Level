@@ -1,0 +1,12 @@
+c:\users\georgi\documents\visual studio 2013\Projects\ConditionalStatements\Problem3CheckForAPlayCard\bin\Debug\Problem3CheckForAPlayCard.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\ConditionalStatements\Problem3CheckForAPlayCard\bin\Debug\Problem3CheckForAPlayCard.exe
+c:\users\georgi\documents\visual studio 2013\Projects\ConditionalStatements\Problem3CheckForAPlayCard\bin\Debug\Problem3CheckForAPlayCard.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\ConditionalStatements\Problem3CheckForAPlayCard\obj\Debug\Problem3CheckForAPlayCard.exe
+c:\users\georgi\documents\visual studio 2013\Projects\ConditionalStatements\Problem3CheckForAPlayCard\obj\Debug\Problem3CheckForAPlayCard.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ConditionalStatements\Problem3CheckForAPlayCard\obj\Debug\Problem3CheckForAPlayCard.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem3CheckForAPlayCard\bin\Debug\Problem3CheckForAPlayCard.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem3CheckForAPlayCard\obj\Debug\Problem3CheckForAPlayCard.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem3CheckForAPlayCard\bin\Debug\Problem3CheckForAPlayCard.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem3CheckForAPlayCard\bin\Debug\Problem3CheckForAPlayCard.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem3CheckForAPlayCard\obj\Debug\Problem3CheckForAPlayCard.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\ConditionalStatements\Problem3CheckForAPlayCard\obj\Debug\Problem3CheckForAPlayCard.pdb

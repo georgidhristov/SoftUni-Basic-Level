@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedTopics\DifferenceBetweenDates\bin\Debug\DifferenceBetweenDates.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedTopics\DifferenceBetweenDates\bin\Debug\DifferenceBetweenDates.exe
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedTopics\DifferenceBetweenDates\bin\Debug\DifferenceBetweenDates.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedTopics\DifferenceBetweenDates\obj\Debug\DifferenceBetweenDates.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedTopics\DifferenceBetweenDates\obj\Debug\DifferenceBetweenDates.exe
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedTopics\DifferenceBetweenDates\obj\Debug\DifferenceBetweenDates.pdb

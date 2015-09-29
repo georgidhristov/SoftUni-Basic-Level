@@ -1,0 +1,12 @@
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\DataTypesAndVariablesHomework\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\DataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\DataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

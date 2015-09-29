@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem6CalculateNKFactorial\bin\Debug\Problem6CalculateNKFactorial.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem6CalculateNKFactorial\bin\Debug\Problem6CalculateNKFactorial.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem6CalculateNKFactorial\bin\Debug\Problem6CalculateNKFactorial.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem6CalculateNKFactorial\obj\Debug\Problem6CalculateNKFactorial.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem6CalculateNKFactorial\obj\Debug\Problem6CalculateNKFactorial.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Loops\Problem6CalculateNKFactorial\obj\Debug\Problem6CalculateNKFactorial.pdb

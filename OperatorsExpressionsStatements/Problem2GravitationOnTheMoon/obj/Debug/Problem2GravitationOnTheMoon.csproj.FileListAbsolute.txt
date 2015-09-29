@@ -1,0 +1,9 @@
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem2GravitationOnTheMoon\bin\Debug\Problem2GravitationOnTheMoon.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem2GravitationOnTheMoon\bin\Debug\Problem2GravitationOnTheMoon.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem2GravitationOnTheMoon\bin\Debug\Problem2GravitationOnTheMoon.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem2GravitationOnTheMoon\obj\Debug\Problem2GravitationOnTheMoon.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem2GravitationOnTheMoon\obj\Debug\Problem2GravitationOnTheMoon.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem2GravitationOnTheMoon\obj\Debug\Problem2GravitationOnTheMoon.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem2GravitationOnTheMoon\bin\Debug\Problem2GravitationOnTheMoon.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem2GravitationOnTheMoon\obj\Debug\Problem2GravitationOnTheMoon.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\OperatorsExpressionsStatements\Problem2GravitationOnTheMoon\obj\Debug\Problem2GravitationOnTheMoon.pdb

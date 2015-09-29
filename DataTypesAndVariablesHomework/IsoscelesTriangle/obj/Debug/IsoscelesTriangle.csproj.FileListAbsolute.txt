@@ -1,0 +1,8 @@
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\DataTypesAndVariablesHomework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\georg_000\Documents\Visual Studio 2013\Projects\DataTypesAndVariablesHomework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb
